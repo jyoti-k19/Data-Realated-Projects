@@ -4,4 +4,4 @@
  
 ## Dashboard Preview
  
-![Dashboard Screenshot](./your-image-name.png)
+![Dashboard Screenshot](./ams.png)
