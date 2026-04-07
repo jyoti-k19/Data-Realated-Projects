@@ -18,7 +18,7 @@ To demonstrate:
 
 ## 🛠️ Tools & Technologies
 - SQL
-- Python (Pandas)
+- Python (Pandas & Numpy)
 - Power BI
 - Power Query
 
